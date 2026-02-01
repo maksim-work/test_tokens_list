@@ -1,0 +1,76 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e0288a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "containerPath" : "/Users/shakalsky/crypto_list/crypto_list/ios/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos26.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Products",
+      "derivedDataPath" : "/Users/shakalsky/Library/Developer/Xcode/my/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shakalsky/Library/Developer/Xcode/my/DerivedData/Runner-dppovpkvqllucibjaxidpvpltpkb/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shakalsky/Library/Developer/Xcode/my/DerivedData/Runner-dppovpkvqllucibjaxidpvpltpkb/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "arm64",
+          "BUILD_DIR" : "/Users/shakalsky/crypto_list/crypto_list/build/ios",
+          "COMPILER_INDEX_STORE_ENABLE" : "NO",
+          "FLUTTER_SUPPRESS_ANALYTICS" : "true",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SCRIPT_OUTPUT_STREAM_FILE" : "/var/folders/y2/34tnb8nd7tlbnnqzbw9zl4vh0000gn/T/flutter_tools.KenK5m/flutter_ios_build_temp_dirl8UJC9/pipe_to_stdout",
+          "SDKROOT" : "iphoneos26.0"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone13,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "26.2.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone13,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "00008101-00182CC20A01001E",
+          "TARGET_DEVICE_MODEL" : "iPhone13,1",
+          "TARGET_DEVICE_OS_VERSION" : "26.2.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

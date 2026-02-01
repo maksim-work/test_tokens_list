@@ -1,0 +1,24 @@
+moduledependenciestarget: \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/Flutter.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/UserNotifications.framework/Modules/module.modulemap \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/shakalsky/crypto_list/crypto_list/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHourFormat.h

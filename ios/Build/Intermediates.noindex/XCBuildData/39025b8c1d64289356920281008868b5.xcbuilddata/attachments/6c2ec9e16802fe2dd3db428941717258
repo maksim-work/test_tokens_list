@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-primary.dia",
+    "emit-module-dependencies" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-primary-emit-module.dia",
+    "pch" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/Runner-primary.swiftdeps"
+  },
+  "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/shakalsky/crypto_list/crypto_list/ios/Runner/AppDelegate.swift" : {
+    "const-values" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/shakalsky/crypto_list/crypto_list/ios/Build/Intermediates.noindex/Runner.build/Debug-iphoneos/Runner.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  }
+}
